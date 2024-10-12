@@ -1,5 +1,5 @@
 # Landmark Classification and Tagging for Social Media 2.0
-The repository contains code for a CNN from scratch, a CNN built from Transfer Learning using ResNet18 and an webapp code for uploading an image and the scores for each of the classes is printed out.
+The repository contains code for a CNN from scratch, a CNN built from Transfer Learning using ResNet18 and a webapp code for uploading an image and the scores for each of the classes is printed out.
 
 ## CNN from Scratch Architecture
 
